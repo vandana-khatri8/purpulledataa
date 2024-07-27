@@ -1,0 +1,179 @@
+[ 
+    {
+    "Brand_id" : 1,
+    "Brand_name" : "ACNE SQUAD"
+    },
+    
+    {
+        "Brand_id" : 2,
+        "Brand_name" : "ACTIVE TOPICELS"
+    },
+    {
+        "Brand_id" : 3,
+        "Brand_name" : "AL FAKHR"
+    },
+    {
+        "Brand_id" : 4,
+        "Brand_name" : "AROMA MAGIC"
+    },
+    {
+        "Brand_id" : 5,
+        "Brand_name" : "AQUALOGICA"
+    },
+    {
+        "Brand_id" : 6,
+        "Brand_name" : "BBLUNT"
+        },
+        {
+            "Brand_id" : 7,
+            "Brand_name" : "BELLA VITA"
+        },
+        {
+         "Brand_id" : 8,
+         "Brand_name" : "Beardo"
+         },
+         {
+            "Brand_id" : 9,
+            "Brand_name" : "Blue Heaven"
+            },
+        {
+                "Brand_id" : 10,
+                "Brand_name" : "Bikers"
+        },
+        {
+            "Brand_id" : 11,
+            "Brand_name" : "Brwn"
+            },
+        {
+                "Brand_id" : 12,
+                "Brand_name" : "BGood"
+         },
+         {
+            "Brand_id" : 13,
+            "Brand_name" : "C2p pro"
+         },
+        {
+            "Brand_id" : 14,
+            "Brand_name" : "cosrx"
+        },
+        {
+             "Brand_id" : 15,
+             "Brand_name" : "Cetaphil"
+         },
+         {
+             "Brand_id" : 16,
+             "Brand_name" : "Clensta"
+        },
+        {
+             "Brand_id" : 17,
+             "Brand_name" : "clean & Clear"
+         },
+        {
+             "Brand_id" : 18,
+            "Brand_name" : "Carmesi"
+        },
+        {
+            "Brand_id" : 19,
+            "Brand_name" : "DE'Lanci"
+        },
+        {
+            "Brand_id" : 20,
+            "Brand_name" : "DR.Rashel"
+        },
+        {
+            "Brand_id" : 21,
+            "Brand_name" : "DrFoot"
+        },
+        {
+            "Brand_id" : 22,
+            "Brand_name" : "Dot & Key"
+        },
+        {
+            "Brand_id" : 23,
+            "Brand_name" : "Everteen"
+        },
+        {
+            "Brand_id" : 24,
+            "Brand_name" : "EarthRhyhm"
+        },
+        {
+            "Brand_id" : 25,
+            "Brand_name" : "Elle18"
+        },
+        {
+            "Brand_id" : 26,
+            "Brand_name" : "Fiama"
+        },
+        {
+            "Brand_id" : 27,
+            "Brand_name" : "Faces Canada"
+        },
+        {
+            "Brand_id" : 28,
+            "Brand_name" : "Fantra"
+        },
+        {
+            "Brand_id" : 29,
+            "Brand_name" : "Foxtale"
+        },
+        {
+            "Brand_id" : 30,
+            "Brand_name" : "GHAR Soaps"
+        },
+        {
+            "Brand_id" : 31,
+            "Brand_name" : "Garnier"
+        },
+        {
+            "Brand_id" : 32,
+            "Brand_name" : "Gillete"
+        },
+        {
+            "Brand_id" : 33,
+            "Brand_name" : "HTC"
+        },
+        {
+            "Brand_id" : 34,
+            "Brand_name" : "Iba"
+        },
+        {
+            "Brand_id" : 35,
+            "Brand_name" : "Jovees"
+        },
+        {
+            "Brand_id" : 36,
+            "Brand_name" : "jaquline USA"
+        },
+        {
+            "Brand_id" : 37,
+            "Brand_name" : "Kama Ayurveda"
+        },
+        {
+            "Brand_id" : 38,
+            "Brand_name" : "L'oreal Paris"
+        },
+        {
+            "Brand_id" : 39,
+            "Brand_name" : "Lakme"
+        },
+        {
+            "Brand_id" : 40,
+            "Brand_name" : "M.A.C"
+        },
+        {
+            "Brand_id" : 41,
+            "Brand_name" : "Matrix"
+        },
+        {
+            "Brand_id" : 42,
+            "Brand_name" : "NY Bae"
+        },
+        {
+            "Brand_id" : 43,
+            "Brand_name" : "Raga Professional"
+        },
+        {
+            "Brand_id" : 44,
+            "Brand_name" : "Rexona"
+        }
+]

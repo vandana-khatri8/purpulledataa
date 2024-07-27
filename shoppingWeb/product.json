@@ -1,0 +1,481 @@
+[
+{
+    "product_id" : 1,
+    "product_name" : "Lakme Peach Milk",
+    "product_type"  :"Moisturizer Cream",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Moisturizer",
+    "price"         :  "₹120",
+    "size"          : "50g"  ,
+    "image "        :"https://ibb.co/cb5nWGq",
+    "Brand_name"    :"Lakme",
+    "detail"        :"Nonstickey cream for removing dryness,moisturiz skin ",
+    "Best for"      :"for all skin "
+
+
+},
+{
+    "product_id" : 2,
+    "product_name" : "Lakme Lumi Cream",
+    "product_type"  :"Highlighting Cream",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Face Makeup",
+    "price"         :"₹299",
+    "size"          : "50g" ,
+    "image "        :"https://ibb.co/prP7cB9",
+    "Brand_name"    :"Lakme",
+    "detail"        :"Light Weight Highlighting face cream for daily use no makeup Look instatnt glow",
+    "Best for"      :"for all skin "
+
+
+},
+{
+    "product_id" : 3,
+    "product_name" : "Aqualogica Sunscreen",
+    "product_type"  :"sunscreen face cream",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"sunscreen",
+    "price"         : "₹499 ",
+    "size"          : "50g",
+    "image "        :"https://ibb.co/zGBtSww",
+    "Brand_name"    :"Aqualogica",
+    "detail"        :"Water resistance sunscreen with no white cast with vitamin C",
+    "Best for"      :"best for Oily and Sensitive skin"
+
+
+},
+{
+    "product_id" : 4,
+    "product_name" : "Aqualogica Radiance+ Smoothie Face Wash with Watermelon & Niacinamide for Clear & Oil-Free Skin - 100ml",
+    "product_type"  :"Face Wash",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Face wash",
+    "price"         : " ₹249 ",
+    "size"          : "100ml" ,
+    "image "        :"https://ibb.co/rtMDWzv",
+    "Brand_name"    :"Aqualogica",
+    "detail"        :"Radiance+ Smoothie Face Wash with Watermelon & Niacinamide",
+    "Best for"      :"for Clear & Oil-Free Skin "
+
+
+},
+{
+    "product_id" : 5,
+    "product_name" : "Bblunt Advanced Smoothening Shampoo with Keratin & Hyaluronic Acid ",
+    "product_type"  :"Shampoo",
+    "category_id"  : 3 ,
+    "category_name" :"Hair Care",
+    "category_type" :"shampoo & Conditioner",
+    "image "        :"https://ibb.co/8rXXCrD",
+    "Brand_name"    :"BBLUNT",
+    "detail"        :"Advance smoothning shampoo with Keratin & Hyaluronic acid ",
+    "Best for"      :"Dry and frizzy hair "
+
+
+},
+{
+    "product_id" : 6,
+    "product_name" : "BBLUNT intense Moisture Heat Hair Spa Mask",
+    "product_type"  :"Hair spa mask",
+    "category_id"  :  3,
+    "category_name" :"Hair Care",
+    "category_type" :"Hair Nourishment",
+    "price"         : " ₹349 "  ,
+    "size"          : "70g" ,
+    "image "        :"https://ibb.co/pZJwX1V",
+    "Brand_name"    :"BBLUNT",
+    "detail"        :"BBLUNT intense Moisture Heat Hair Spa Mask with Jojoba Oil & Vitamin-E",
+    "Best for"      :"Best for all Hair Type"
+
+
+},
+{
+    "product_id" : 7,
+    "product_name" : "BellaVita Luxury Perfumes Gift set ",
+    "product_type"  :"Perfume for women",
+    "category_id"  : 4 ,
+    "category_name" :"Fragrance",
+    "category_type" :"Fragrance for women gift & value set",
+    "price"         :  "₹849" ,
+    "size"          : "80ml" ,
+    "image "        :"https://ibb.co/qspQwqX",
+    "Brand_name"    :"BellaVita",
+    "detail"        :"Luxury FRagrance Combo & gift set for Women longlasting fragrance",
+    "Best for"      :"for women"
+
+
+},
+{
+    "product_id" : 8,
+    "product_name" : "C2P Pro slice non Transfer Matte Lipstick Fashion Icon",
+    "product_type"  :"Lipstick",
+    "category_id"  :  2,
+    "category_name" :"Makeup",
+    "category_type" :"Lip Makeup",
+    "price"         :" ₹599 " ,
+    "size"          : "4.8g",
+    "image "        :"https://ibb.co/z5nyHWF",
+    "Brand_name"    :"C2P Pro",
+    "detail"        :"Matte Slice non Transfer Long Lasting Lip Color with vitamin-E",
+    "Best for"      :"for all skin Tone"
+
+
+},
+{
+    "product_id" : 9,
+    "product_name" : "C2P Pro Strobe play Strobe Cream",
+    "product_type"  :"Highlighting Cream",
+    "category_id"  :  2,
+    "category_name" :"Makeup",
+    "category_type" :"Face Makeup",
+    "price"         : "₹699"  ,
+    "size"          :  "15g",
+    "image "        :"https://ibb.co/q1hfgdv",
+    "Brand_name"    :"C2P Pro",
+    "detail"        :"Strobe cream -RoseGold-03",
+    "Best for"      :"for all skin "
+
+
+},
+{
+    "product_id" : 10,
+    "product_name" : "DermDoc2% Salicylic Acid FaceSerum",
+    "product_type"  :"Face Serum",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Face Serum",
+    "price"         : " ₹285 "  ,
+    "size"          :"15ml"  ,
+    "image "        :"https://ibb.co/hM1VCr1",
+    "Brand_name"    :"DermDoc",
+    "detail"        :"DERMDOC by Purplle 2% Salicylic Acid Face Serum (15ml) | Serum for Acne and Pimples | Face Serum for Glowing Skin | Face Serum for Oily Acne Prone Skin | Serum for Acne Scars | Acne Serum | Face Serum for Oily Skin ",
+    "Best for"      :" Face Serum for Oily Skin"
+
+
+},
+{
+    "product_id" : 11,
+    "product_name" : "Elle18 Eyedrama Kajal Bold Black",
+    "product_type"  :"Kajal",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Eye Makeup",
+    "price"         :  "₹110" ,
+    "size"          : "0.35ml" ,
+    "image "        :"https://ibb.co/DwjBJkG",
+    "Brand_name"    :"Elle18",
+    "detail"        :"Elle18 Eyedrama Kajal Bold Black Bold Black 0.35 ml",
+    "Best for"      :"For Women "
+
+
+},
+{
+    "product_id" : 12,
+    "product_name" : "Elle18 Color Pop Lip color",
+    "product_type"  :"Nail Elament",
+    "category_id"  :  2,
+    "category_name" :"Makeup",
+    "category_type" :"Nail Makeup",
+    "price"         :"₹110",
+    "size"          : "4.3g" ,
+    "image "        :"https://ibb.co/GpGt6hJ",
+    "Brand_name"    :"Elle18",
+    "detail"        :"Elle18 Color Pop Lip color Mauve Date 4.3g",
+    "Best for"      :""
+
+
+},
+{
+    "product_id" : 13,
+    "product_name" : "Dot & Key Ceramides & Hyaluronic Face wash ",
+    "product_type"  :"Face Wash",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Face wash",
+    "price"         : " ₹395 " ,
+    "size"          : "100ml" ,
+    "image "        :"https://ibb.co/6gk6ztx",
+    "Brand_name"    :"Dot&Key",
+    "detail"        :"Dot & Key Ceramides & Hyaluronic Skin Barrier Repair + Face Cream with Probiotics & Rice Water | Fragrance Free Face Moisturizer for Dry & Sensitive Skin, 100g",
+    "Best for"      :" for Dry & Sensitive Skin"
+
+
+},
+{
+    "product_id" : 14,
+    "product_name" : "FacesCanada Ultime Pro Makeup Fixer",
+    "product_type"  :"Makeup Fixer Spray",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Face Makeup",
+    "price"         : " ₹349 "  ,
+    "size"          :  "50ml",
+    "image "        :"https://ibb.co/v30rQZq",
+    "Brand_name"    :"FACES CANADA",
+    "detail"        :"FACES CANADA Ultime Pro Makeup Fixer, 50 ml | Long Lasting Makeup Setting Spray | Keeps Makeup Intact | Hydrates, Soothes & Refreshes Skin",
+    "Best for"      :"All Skin Type"
+
+
+},
+{
+    "product_id" : 15,
+    "product_name" : "FacesCanada Lip Balm Tint",
+    "product_type"  :"LipBalm",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Lip Care",
+    "price"         :  "₹175" ,
+    "size"          :"4.5g"  ,
+    "image "        :"https://ibb.co/3yv0pWR",
+    "Brand_name"    :"FACES CANADA",
+    "detail"        :"FACES CANADA Color Lip Balm - Watermelon, 4.5g | Pink Tint | 12HR Moisture | SPF 15 | Shea Butter, Vitamin C & E Enriched | Hydrating & Nourishing For Dry Chapped Lips",
+    "Best for"      :"For Dry Chapped Lips"
+
+
+},
+{
+    "product_id" : 16,
+    "product_name" : "Foxtale Vitamin C Serum",
+    "product_type"  :"Face Serum",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Face Serum",
+    "price"         :  " ₹249 " ,
+    "size"          : "10ml" ,
+    "image "        :"https://ibb.co/VTNYkD8",
+    "Brand_name"    :"Foxtale",
+    "detail"        :"Foxtale Vitamin C Face Serum with L-Ascorbic Acid and Vitamin E Brightening Serum - 10ml",
+    "Best for"      :"For Oily & Dull Skin"
+
+
+},
+{
+    "product_id" : 17,
+    "product_name" : "Garnier Skin Naturals Wrinkle Lift Anti Aging Cream",
+    "product_type"  :"Face Cream",
+    "category_id"  : 1 ,
+    "category_name" :"skin care",
+    "category_type" :"Face Cream",
+    "price"         :" ₹329 "  ,
+    "size"          : "40gm" ,
+    "image "        :"https://ibb.co/hVWbHbJ",
+    "Brand_name"    :"Garnier",
+    "detail"        :"Garnier Skin Naturals Wrinkle Lift Anti Agening cream (40 g)",
+    "Best for"      :"For Wrinkled Skin"
+
+
+},
+{
+    "product_id" : 18,
+    "product_name" : "GHAR SOAPS Ice Roller",
+    "product_type"  :"Face Ice Roller",
+    "category_id"  : 9 ,
+    "category_name" :"Appliances",
+    "category_type" :"Face & Body Tools",
+    "price"         :  "₹999" ,
+    "size"          : "-" ,
+    "image "        :"https://ibb.co/gRTyBgG",
+    "Brand_name"    :"GHAR SOAPS",
+    "detail"        :"GHAR SOAPS Ice Roller For Neck, Face & Eyes Massage, Reusable Facial Tool For Glowing & Tighten Skin (Blue)",
+    "Best for"      :"For Glowing & Tighten Skin (Blue)"
+
+
+},
+{
+    "product_id" : 19,
+    "product_name" : "Imagic PROfessional NON-LATEX MAKEUP SPONGE-4",
+    "product_type"  :"Makeup TOOL",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Makeup Tool",
+    "price"         : " ₹249 "  ,
+    "size"          : "M" ,
+    "image "        :"https://ibb.co/4TMyPxr",
+    "Brand_name"    :"Imagic",
+    "detail"        :"Imagic PROfessional NON-LATEX MAKEUP SPONGE-4",
+    "Best for"      :"For Makeup "
+
+
+},
+{
+    "product_id" : 20,
+    "product_name" : " M.A.C Studio Fix Fluid SPF 15 Foundation - NC 44 ",
+    "product_type"  :"Foundation",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Face Makeup",
+    "price"         :  "₹3300" ,
+    "size"          : "30ml" ,
+    "image "        :"https://ibb.co/hW25nDs",
+    "Brand_name"    :"M.A.C",
+    "detail"        :"M.A.C Studio Fix Fluid SPF 15 Foundation - NC 44 (30 ml)",
+    "Best for"      :"OILY & COMBINATION SKIN"
+
+
+},
+{
+    "product_id" : 21,
+    "product_name" : "Raaga Professional Pro 10 Express Permanent Hair Color",
+    "product_type"  :"Hair Color Cream",
+    "category_id"  : 3 ,
+    "category_name" :"Hair Care",
+    "category_type" :"Hair styling",
+    "price"         :  " ₹285 " ,
+    "size"          : "90gm" ,
+    "image "        :"https://ibb.co/cNxDFxL",
+    "Brand_name"    :"Raga Professional",
+    "detail"        :"Raaga Professional Pro 10 Express Permanent Hair Color, Dark Brown, 3, 90 gm",
+    "Best for"      :""
+
+
+},
+{
+    "product_id" : 22,
+    "product_name" : "Seven Seas Be Fabulous 5 In 1 Beauty Box Eyeshadow Palette Skin",
+    "product_type"  :"EyeShadow ",
+    "category_id"  : 2 ,
+    "category_name" :"Makeup",
+    "category_type" :"Eye Makeup",
+    "price"         :  " ₹349 " ,
+    "size"          : "48g" ,
+    "image "        :"https://ibb.co/zNTbBwF",
+    "Brand_name"    :"Seven Seas",
+    "detail"        :"Seven Seas Be Fabulous 5 In 1 Beauty Box Eyeshadow Palette Skin 48G",
+    "Best for"      :""
+
+
+},
+{
+    "product_id" : 23,
+    "product_name" : "Plum BodyLovin' Hawaiian Rumba Shower Gel ",
+    "product_type"  :"Shower Gel",
+    "category_id"  :  10,
+    "category_name" :"Bath & Body ",
+    "category_type" :"Bath &Shower",
+    "price"         : " ₹399 "  ,
+    "size"          :"240ml"  ,
+    "image "        :"",
+    "Brand_name"    :"https://ibb.co/LNRBQGg",
+    "detail"        :"Plum BodyLovin' Hawaiian Rumba Shower Gel | SLS-Free Body Wash For Women & Men | Fresh Beachy Fragrance for Soft & Smooth Skin | Aloe-Infused Nourishing Body Cleanser For All Skin Types (240 ml)",
+    "Best for"      :"For All Skin Types"
+
+
+},
+{
+    "product_id" : 24,
+    "product_name" : "Rexona Powder Dry Underarm Roll On Deodorant For Women",
+    "product_type"  :"Roll-on Deodorant",
+    "category_id"  :  4,
+    "category_name" :"Fragrance",
+    "category_type" :"Fragrance for women",
+    "price"         : "₹190"  ,
+    "size"          : "50ml" ,
+    "image "        :"https://ibb.co/tqx4877",
+    "Brand_name"    :"Rexona",
+    "detail"        :"Rexona Powder Dry Underarm Roll On Deodorant For Women, 50 ml",
+    "Best for"      :"For Women"
+
+
+},
+{
+    "product_id" : 25,
+    "product_name" : "Cetaphil Baby Daily Lotion",
+    "product_type"  :"Body Lotion",
+    "category_id"  : 7,
+    "category_name" :"Mom & Baby",
+    "category_type" :"Baby Care",
+    "price"         :"₹870"   ,
+    "size"          : "400ml" ,
+    "image "        :"https://ibb.co/PmvJvLB",
+    "Brand_name"    :"Cetaphil",
+    "detail"        :"Cetaphil Baby Daily Lotion (400 ml)",
+    "Best for"      :"For Baby "
+
+
+},
+{
+    "product_id" : 26,
+    "product_name" : "Carmesi Facial Razor for Women - For Instant & Painless Hair RemovalL",
+    "product_type"  :"Facial Tool",
+    "category_id"  : 8 ,
+    "category_name" :"Personal Care",
+    "category_type" :"Shaving &Hair Removal",
+    "price"         : " ₹249 "  ,
+    "size"          :"pack of 3"  ,
+    "image "        :"https://ibb.co/5hvfwpM",
+    "Brand_name"    :"Carmesi",
+    "detail"        :"Carmesi Facial Razor for Women - For Instant & Painless Hair Removal (Eyebrows, Upper Lip, Forehead, Peach Fuzz, Chin, Sideburns) - Pack of 3",
+    "Best for"      :"For Women "
+
+
+},
+{
+    "product_id" : 27,
+    "product_name" : "NY Bae Starry Night Sling Bag",
+    "product_type"  :"Sling Bag",
+    "category_id"  : 6 ,
+    "category_name" :"Accessories",
+    "category_type" :"Jewellery",
+    "price"         :  "₹999" ,
+    "size"          : "M" ,
+    "image "        :"https://ibb.co/9y5B8jK",
+    "Brand_name"    :"NY Bae",
+    "detail"        :"NY Bae Starry Night Sling Bag",
+    "Best for"      :"For Women "
+
+
+},
+{
+    "product_id" : 28,
+    "product_name" : "Kapiva Get Slim Juice ",
+    "product_type"  :"Weight Wise Food",
+    "category_id"  :  5,
+    "category_name" :"Wellness",
+    "category_type" :"Diet & Nutrition",
+    "price"         : " ₹549 "  ,
+    "size"          :"1000ml"  ,
+    "image "        :"https://ibb.co/wcHp9Qt",
+    "Brand_name"    :"Kapiva",
+    "detail"        :"Kapiva Get Slim Juice - 1L | Helps Burn Fat Naturally | Goodness Of 14 Ayurvedic Herbs | Kapiva Get Slim Juice - 1L | Helps Burn Fat Naturally | Goodness Of 14 Ayurvedic Herbs | Weight Management & Digestion Stimulation",
+    "Best for"      :"Weight Management & Digestion Stimulation"
+
+
+},
+{
+    "product_id" : 29,
+    "product_name" : "mCaffeine naked & raw Coffee Body Scrub With Coconut",
+    "product_type"  :" Body Scrub",
+    "category_id"  : 10 ,
+    "category_name" :"Bath & Body",
+    "category_type" :"Body Care",
+    "price"         : "₹395"  ,
+    "size"          : "100gm" ,
+    "image "        :"https://ibb.co/b75XPHP",
+    "Brand_name"    :"mCaffeine",
+    "detail"        :"mCaffeine naked & raw Coffee Body Scrub With Coconut | For Women & Men | De-Tan Bathing Scrub with Coconut Oil, Removes Dirt & Dead Skin from Neck, Knees, Elbows & Arms - 100 gm",
+    "Best for"      :"Body Care"
+
+
+},
+{
+    "product_id" : 30,
+    "product_name" : "Alps Goodness Sea Salt Exfoliating Manicure Pedicure Kit",
+    "product_type"  :"MAnicure Padicure Kit",
+    "category_id"  : 8 ,
+    "category_name" :"Personal Care",
+    "category_type" :"Hand & Food Care",
+    "price"         : "₹155" ,
+    "size"          : "34gm" ,
+    "image "        :"https://ibb.co/mXvHFWZ",
+    "Brand_name"    :"Alps Goodness",
+    "detail"        :"Alps Goodness Sea Salt Exfoliating Manicure Pedicure Kit (34 g)",
+    "Best for"      :"For Hand & Foot"
+
+
+}
+
+]

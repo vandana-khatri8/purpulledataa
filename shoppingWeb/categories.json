@@ -1,0 +1,217 @@
+[
+    {
+    "category_id"   : 1,
+    "category_name" : "skin Care",
+    "category_type" : [
+        {
+            "category_type-id" : 1,
+            "category_type-name" : "Lip Care"
+        },
+        {
+            "category_type-id" : 2,
+            "category_type-name" : "Eye Care"
+        },
+        {
+            "category_type-id" : 3,
+            "category_type-name" : "Moisturizer"
+        },
+        {
+            "category_type-id" : 4,
+            "category_type-name" : "Body Care"
+        },
+        {
+            "category_type-id" : 5,
+            "category_type-name" : "Face Care"
+        }
+    ]
+    },
+    {
+        "category_id"   : 2,
+        "category_name" : "MakeUp",
+        "category_type" : [
+            {
+                "category_type-id" : 1,
+                "category_type-name" : "Eye Makeup"
+            },
+            {
+                "category_type-id" : 2,
+                "category_type-name" : "Lip Makeup"
+            },
+            {
+                "category_type-id" : 3,
+                "category_type-name" : "Makeup gift & value set"
+            },
+            {
+                "category_type-id" : 4,
+                "category_type-name" : "nails"
+            },
+            {
+                "category_type-id" : 5,
+                "category_type-name" : "Brushes & Tools"
+            }
+        ]
+        },
+
+        {
+            "category_id"   : 3,
+            "category_name" : "Hair Care",
+            "category_type" : [
+                {
+                    "category_type-id" : 1,
+                    "category_type-name" : "Shampoo & Conditioner"
+                },
+                {
+                    "category_type-id" : 2,
+                    "category_type-name" : "Hair Accessories"
+                },
+                {
+                    "category_type-id" : 3,
+                    "category_type-name" : "Hair Care gift & value set"
+                },
+                {
+                    "category_type-id" : 4,
+                    "category_type-name" : "Hair Care & Styling Tools "
+                },
+                {
+                    "category_type-id" : 5,
+                    "category_type-name" : "Hair Nourishment"
+                }
+            ]
+            },
+            {
+                "category_id"   : 4,
+                "category_name" : "Fragrance",
+                "category_type" : [
+                    {
+                        "category_type-id" : 1,
+                        "category_type-name" : "Fragrance for Women"
+                    },
+                    {
+                        "category_type-id" : 2,
+                        "category_type-name" : "Fragrance for men"
+                    },
+                    {
+                        "category_type-id" : 3,
+                        "category_type-name" : "Combos & gift set "
+                    }
+                   
+                ]
+                },
+                {
+                    "category_id"   : 5,
+                    "category_name" : "Wellness",
+                    "category_type" : [
+                        {
+                            "category_type-id" : 1,
+                            "category_type-name" : "Diet & Nutrition"
+                        },
+                        {
+                            "category_type-id" : 2,
+                            "category_type-name" : "Sexual Wellness"
+                        },
+                        {
+                            "category_type-id" : 3,
+                            "category_type-name" : "Pain Relief & First Aid"
+                        }
+                    ]
+                    },
+                    {
+                        "category_id"   : 6,
+                        "category_name" : "Accessories",
+                        "category_type" : [
+                            {
+                                "category_type-id" : 1,
+                                "category_type-name" : "Jewellery"
+                            },
+                            {
+                                "category_type-id" : 2,
+                                "category_type-name" : "Makeup Accessories"
+                            },
+                            {
+                                "category_type-id" : 3,
+                                "category_type-name" : "Skin Accessories"
+                            }
+                        ]
+                        },
+
+                        {
+                            "category_id"   : 7,
+                            "category_name" : "Mom&Baby",
+                            "category_type" : [
+                                {
+                                    "category_type-id" : 1,
+                                    "category_type-name" : "Baby Care"
+                                },
+                                {
+                                    "category_type-id" : 2,
+                                    "category_type-name" : "Mom Care"
+                                },
+                                {
+                                    "category_type-id" : 3,
+                                    "category_type-name" : "gift & value set Mom&Baby"
+                                }
+                               
+                            ]
+                            },
+                            {
+                                "category_id"   : 8,
+                                "category_name" : "Personal Care",
+                                "category_type" : [
+                                    {
+                                        "category_type-id" : 1,
+                                        "category_type-name" : "Men's Grooming"
+                                    },
+                                    {
+                                        "category_type-id" : 2,
+                                        "category_type-name" : "Oral Care"
+                                    },
+                                    {
+                                        "category_type-id" : 3,
+                                        "category_type-name" : "Shaving & Hair Removal"
+                                    },
+                                    {
+                                        "category_type-id" : 4,
+                                        "category_type-name" : "Feminine Hygine"
+                                    },
+                                    {
+                                        "category_type-id" : 5,
+                                        "category_type-name" : "Hand & Foot Care"
+                                    }
+                                ]
+                                },
+                                {
+                                    "category_id"   : 9,
+                                    "category_name" : "Appliances",
+                                    "category_type" : [
+                                        {
+                                            "category_type-id" : 1,
+                                            "category_type-name" : "Hair Removal Tools"
+                                        },
+                                        {
+                                            "category_type-id" : 2,
+                                            "category_type-name" : "Face & Body Tools"
+                                        }
+                                    ]
+                                    },
+                                    {
+                                        "category_id"   : 10,
+                                        "category_name" : "Bath & Body ",
+                                        "category_type" : [
+                                            {
+                                                "category_type-id" : 1,
+                                                "category_type-name" : "Body Care"
+                                            },
+                                            {
+                                                "category_type-id" : 2,
+                                                "category_type-name" : "Bath & Shower"
+                                            },
+                                            {
+                                                "category_type-id" : 3,
+                                                "category_type-name" : "Bath &  Body Care gift & value set"
+                                            }
+                                          
+                                        ]
+                                        }
+
+]
+    
